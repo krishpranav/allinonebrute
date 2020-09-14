@@ -23,3 +23,7 @@ A simple python tool for bruteforcing different social media accounts
 - cd allinonebrute
 - chmod +x *
 - python3 allinonebrute.py
+
+# USE THIS TOOL FOR LEGAL PURPOSE
+
+- TOOL IS CREATED BY KRISNA PRANAV
