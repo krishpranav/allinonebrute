@@ -14,3 +14,10 @@ A simple python tool for bruteforcing different social media accounts
 - python3 allinonebrute.py
 
 # Steps To Run This Tool On Android(Termux):
+- git clone https://github.com/krishpranav/allinonebrute
+- apt update
+- apt install python3
+- apt install tor
+- tor
+- (open a new session)
+- cd allinonebrute
