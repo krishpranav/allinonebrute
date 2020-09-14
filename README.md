@@ -21,3 +21,5 @@ A simple python tool for bruteforcing different social media accounts
 - tor
 - (open a new session)
 - cd allinonebrute
+- chmod +x *
+- python3 allinonebrute.py
